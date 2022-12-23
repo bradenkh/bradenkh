@@ -1,3 +1,2 @@
 # Hello There 👋
-Some of my work can be seen in the wild.
-Feedback tool made for Brigham Young Univerisity - Idaho: https://td.byui.edu/TDClient/87/Portal/Home/
+While most of my work lives in private repositories and I am not able to showcase it, you can see a few examples of classwork and personal projects here.
